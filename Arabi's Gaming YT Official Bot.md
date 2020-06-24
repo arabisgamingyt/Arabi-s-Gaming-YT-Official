@@ -1,6 +1,9 @@
+Discord Bot List
+----------------
 #Arabi's Gaming YT's Official
 -----------------------------
-
+It's Simple And Easy To Use.A Moderation And Multi Functioned Plus A Gaming Bot For PUBG MOBILE.
+------------------------------------------------------------------------------------------------
 This Bot Command Prefix Is a! 
 -----------------------------
 Here Are All The Helpful Commands You Can Use: Moderation Commands
@@ -114,3 +117,8 @@ ________________________________________________________________________________
 This Bot Has Some Hidden Featues That Is Only For The Creator Of This Bot
 _________________________________________________________________________
 Please Note That This Bot Also Blocks Abusive Comments And This Bot Delete That Message And Warn The User.
+
+__________________________________________________________________________________________________________
+For Any Help Direct Message Me Through Discord
+My Discord User Name @Arabi's Gaming YT#1403
+My Discord User ID:524157676649709570
