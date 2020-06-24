@@ -120,5 +120,17 @@ Please Note That This Bot Also Blocks Abusive Comments And This Bot Delete That 
 
 __________________________________________________________________________________________________________
 For Any Help Direct Message Me Through Discord
+
 My Discord User Name @Arabi's Gaming YT#1403
+
 My Discord User ID:524157676649709570
+
+Also Visit By YouTube Channel For Get The Upcoming Video Of How To Use This Bot!
+
+https://www.youtube.com/channel/UC9VtflfKo-BREUk80V3v6gg
+
+And Visit My Website For Mush More Information And Helps About The Bot!
+
+https://arabisgamingyt.blogspot.com
+
+Thanks Fpr Coming And Usig My Bot!
