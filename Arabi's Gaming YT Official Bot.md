@@ -133,4 +133,4 @@ And Visit My Website For Mush More Information And Helps About The Bot!
 
 https://arabisgamingyt.blogspot.com
 
-Thanks Fpr Coming And Usig My Bot!
+Thanks For Visiting And Usig My Bot!
