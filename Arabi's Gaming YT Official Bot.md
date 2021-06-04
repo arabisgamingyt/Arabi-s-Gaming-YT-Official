@@ -1,4 +1,4 @@
-**Discord Bot List
+Discord Bot List
 ----------------
 #Arabi's Gaming YT's Official
 -----------------------------
@@ -8,7 +8,7 @@ This Bot Command Prefix Is a!
 -----------------------------
 Here Are All The Helpful Commands You Can Use: Moderation Commands
 ------------------------------------------------------------------
-1)a!help=Shows A List Of Helpful Commands.
+**1)a!help=Shows A List Of Helpful Commands.
 
 2)a!ban [@Mention]=Ban A Mentioned Member*
 
@@ -74,12 +74,12 @@ Here Are All The Helpful Commands You Can Use: Moderation Commands
 
 33)a!poll 2 [Text]=Create A Two Optioned Like And Dislike Question.
 
-34)a!poll 3 [Text]=Create A 4 Optioned Quality Question.
+34)a!poll 3 [Text]=Create A 4 Optioned Quality Question.**
 
 PUBG MOBILE Commands
 --------------------
 
-Use a!help pubg For All The PUBG MOBILE Command List
+**Use a!help pubg For All The PUBG MOBILE Command List
 
 1)a!map list=Shows All The PUBG Map List.
 
@@ -109,28 +109,28 @@ Use a!help pubg For All The PUBG MOBILE Command List
 
 14)a!pubg scopelist=Shows The PUBG Scope List.
 
-15)a!winner [@Mention]=Create A PUBG MOBILE Match Winner Winner Chicken Dinner Embed Text With Picture.
+15)a!winner [@Mention]=Create A PUBG MOBILE Match Winner Winner Chicken Dinner Embed Text With Picture.**
 _________________________________________________________________________________________________________________________________________________________________________________
 
-Message With The Symbol [*] Means User Need Adminstrative Permission To Use This Command And [BETA]Means The Command Is Not Fully Completed And May Not Work Fully For Information About A Specific Command Write a/[The Commands Number] For Get More Information About That Command Please Support Us On With A Few Donations To Keep Improving Our Bot As Mush As Possible Thanks.
+**Message With The Symbol [*] Means User Need Adminstrative Permission To Use This Command And [BETA]Means The Command Is Not Fully Completed And May Not Work Fully For Information About A Specific Command Write a/[The Commands Number] For Get More Information About That Command Please Support Us On With A Few Donations To Keep Improving Our Bot As Mush As Possible Thanks.**
 _________________________________________________________________________________________________________________________________________________________________________________
-This Bot Has Some Hidden Featues That Is Only For The Creator Of This Bot
+**This Bot Has Some Hidden Featues That Is Only For The Creator Of This Bot**
 _________________________________________________________________________
-Please Note That This Bot Also Blocks Abusive Comments And This Bot Delete That Message And Warn The User.
+**Please Note That This Bot Also Blocks Abusive Comments And This Bot Delete That Message And Warn The User.**
 
 __________________________________________________________________________________________________________
-For Any Help Direct Message Me Through Discord
+**For Any Help Direct Message Me Through Discord
 
 My Discord User Name @Arabi's Gaming YT#1403
 
 My Discord User ID:524157676649709570
 
-Also Visit By YouTube Channel For Get The Upcoming Video Of How To Use This Bot!
+Also Visit By YouTube Channel For Get The Upcoming Video Of How To Use This Bot!**
 
 https://www.youtube.com/channel/UC9VtflfKo-BREUk80V3v6gg
 
-And Visit My Website For Mush More Information And Helps About The Bot!
+**And Visit My Website For Mush More Information And Helps About The Bot!**
 
-https://arabisgamingyt.blogspot.com
+https://arabisgamingytofficial.blogspot.com
 
-Thanks For Visiting And Usig My Bot!**
+**Thanks For Visiting And Usig My Bot!**
