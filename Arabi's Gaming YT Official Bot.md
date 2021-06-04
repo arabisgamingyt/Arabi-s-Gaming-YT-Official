@@ -1,4 +1,4 @@
-Discord Bot List
+**Discord Bot List
 ----------------
 #Arabi's Gaming YT's Official
 -----------------------------
@@ -133,4 +133,4 @@ And Visit My Website For Mush More Information And Helps About The Bot!
 
 https://arabisgamingyt.blogspot.com
 
-Thanks For Visiting And Usig My Bot!
+Thanks For Visiting And Usig My Bot!**
