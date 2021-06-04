@@ -8,7 +8,7 @@ This Bot Command Prefix Is a!
 -----------------------------
 Here Are All The Helpful Commands You Can Use: Moderation Commands
 ------------------------------------------------------------------
-**1)a!help=Shows A List Of Helpful Commands.
+**1)a!help=Shows A List Of Helpful Commands.**
 
 2)a!ban [@Mention]=Ban A Mentioned Member*
 
@@ -76,10 +76,10 @@ Here Are All The Helpful Commands You Can Use: Moderation Commands
 
 34)a!poll 3 [Text]=Create A 4 Optioned Quality Question.**
 
-PUBG MOBILE Commands
+**PUBG MOBILE Commands**
 --------------------
 
-**Use a!help pubg For All The PUBG MOBILE Command List
+**Use a!help pubg For All The PUBG MOBILE Command List**
 
 1)a!map list=Shows All The PUBG Map List.
 
@@ -119,13 +119,13 @@ _________________________________________________________________________
 **Please Note That This Bot Also Blocks Abusive Comments And This Bot Delete That Message And Warn The User.**
 
 __________________________________________________________________________________________________________
-**For Any Help Direct Message Me Through Discord
+**For Any Help Direct Message Me Through Discord**
 
-My Discord User Name @Arabi's Gaming YT#1403
+**My Discord User Name @Arabi's Gaming YT#1403**
 
-My Discord User ID:524157676649709570
+**My Discord User ID:524157676649709570**
 
-Also Visit By YouTube Channel For Get The Upcoming Video Of How To Use This Bot!**
+**Also Visit By YouTube Channel For Get The Upcoming Video Of How To Use This Bot!**
 
 https://www.youtube.com/channel/UC9VtflfKo-BREUk80V3v6gg
 
